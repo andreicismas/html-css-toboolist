@@ -1,4 +1,6 @@
-
+*{
+    margin: 0;
+}
 
 .top-logo{
     
@@ -32,6 +34,7 @@
 
 .button{
     list-style-type: none;
+    padding-bottom: 50px;
     margin-left: 40px;
    
 }
@@ -93,3 +96,14 @@
  .six{
      background-color: #B0C926;
  } 
+.check{
+    color: red;
+    border: solid 1px;
+    border-color: red ;
+    text-align: center;
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    /* background-color: red; */
+}
