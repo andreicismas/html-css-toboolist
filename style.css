@@ -18,3 +18,55 @@
     position: absolute;
     top: 30px;
 }
+
+.content{
+
+    background-color: seashell;
+    margin-top: 50px;
+    width: 70%;
+    position: absolute;
+    left: 15%;
+}
+
+.button{
+    list-style-type: none;
+   
+}
+.but{
+    background-color: lightblue;
+    border-radius: 4px;
+    border-color: transparent;
+    padding: 5px;
+}
+ .butb{
+     border-radius: 4px;
+     border-color:#C5CBD0;
+     background-color: white;
+     padding: 5px;
+ }
+ .text-color{
+   color: #C5CBD0;
+
+ }
+ .circle-box{
+     width:10px;
+     height: 10px;
+     display: inline-block;
+     border-color: 1px solid red;
+     border-radius: 5px;
+ }
+
+ .tob{
+    background-color: lightblue;
+    border-radius: 4px;
+    border-color: transparent;
+    padding: 5px;
+    font-size: 12px;
+ }
+ .size-ente{
+     font-size: 13px;
+ }
+
+ .row{
+     padding: 20px;
+ }
