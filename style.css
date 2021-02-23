@@ -21,15 +21,18 @@
 
 .content{
 
-    background-color: seashell;
+    background-color: white;
     margin-top: 50px;
     width: 70%;
     position: absolute;
     left: 15%;
+    border: 1px solid rgb(211, 211, 211, 0.5)  ;
+    border-radius: 5px;
 }
 
 .button{
     list-style-type: none;
+    margin-left: 40px;
    
 }
 .but{
@@ -68,5 +71,25 @@
  }
 
  .row{
+ 
      padding: 20px;
+     position:relative;
+     margin-left: -15px;
  }
+
+.one{
+     background-color: #9C72E4;
+ }
+
+ .thoo{
+     background-color: #64C0A9;
+ }
+ .three{
+     background-color: #F29E33;
+ }
+ .five{
+     background-color: #D863A1;
+ }
+ .six{
+     background-color: #B0C926;
+ } 
